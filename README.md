@@ -18,21 +18,21 @@ About this repository
 2. form : <br>
 form action = "xyz.html"<br>
 🔍you can submit form to xyz.html address
-
-3.Javascript:
-toggle : 
-ex) document.querySelector('.list-group').classList.toggle('show')
-🔍It acts like post-it.
-
-classList.add:
-ex) document.querySelector('.black-bg').classList.add('show-modal')
-🔍you can add a class giving css display:none/block or visibility: hidden/visible
-
-Boolean(if):
-const pw = document.getElementById('exampleInputPassword1');
-🔍You can claim a const variable. 
-🔍pw.value.length : value means the input/ length: is the input length
-
+<br>
+3.Javascript:<br>
+toggle : <br>
+ex) document.querySelector('.list-group').classList.toggle('show')<br>
+🔍It acts like post-it.<br>
+<br>
+classList.add:<br>
+ex) document.querySelector('.black-bg').classList.add('show-modal')<br>
+🔍you can add a class giving css display:none/block or visibility: hidden/visible<br>
+<br>
+Boolean(if):<br>
+const pw = document.getElementById('exampleInputPassword1');<br>
+🔍You can claim a const variable. <br>
+🔍pw.value.length : value means the input/ length: is the input length<br>
+<br>
 document.querySelector('.btn-primary').addEventListener('click', function(){
           if (pw.value.length < 6) {
             alert ('Please enter more than 6 digits')
