@@ -17,20 +17,22 @@ About this repository
 1. Practiced utilizing Bootstrap to build a website.
 
 2. form :
-<form action = "xyz.html"></form> : you can submit form to xyz.html address
+<form action = "xyz.html"></form>
+🔍you can submit form to xyz.html address
 
 3.Javascript:
 toggle : 
-ex) document.querySelector('.list-group').classList.toggle('show'); 
-It acts like post-it.
+ex) document.querySelector('.list-group').classList.toggle('show')
+🔍It acts like post-it.
+
 classList.add:
-ex) document.querySelector('.black-bg').classList.add('show-modal');
-you can add a class giving css display:none/block or visibility: hidden/visible
+ex) document.querySelector('.black-bg').classList.add('show-modal')
+🔍you can add a class giving css display:none/block or visibility: hidden/visible
 
 Boolean(if):
 const pw = document.getElementById('exampleInputPassword1');
-//You can claim a const variable. 
-//pw.value.length : value means the input/ length: is the input length
+🔍You can claim a const variable. 
+🔍pw.value.length : value means the input/ length: is the input length
 
 document.querySelector('.btn-primary').addEventListener('click', function(){
           if (pw.value.length < 6) {
