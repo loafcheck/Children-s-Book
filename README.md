@@ -6,7 +6,14 @@ Process of building an online subscription website.
 
 
 
-Add files via upload
+
+
+
+
+
+About this repository
+
+
 1. Practiced utilizing Bootstrap to build a website.
 
 2. form :
