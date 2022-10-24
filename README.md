@@ -2,15 +2,9 @@
 Process of building an online subscription website.
 
 ![Screen Shot 2022-10-25 at 12 46 43 AM](https://user-images.githubusercontent.com/106638262/197571270-9c596cfb-bd66-4c82-be81-eb4692bd824f.png)
-
-
-
-
-
-
-
-
-
+<br>
+<br>
+<br>
 About this repository
 
 1. Practiced utilizing Bootstrap to build a website.
