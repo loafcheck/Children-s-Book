@@ -32,3 +32,4 @@ document.querySelector('.btn-primary').addEventListener('click', function(){
             alert ('Please enter more than 6 digits')
           }
         })
+
